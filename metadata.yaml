@@ -1,0 +1,33 @@
+_repo: Vom-Mars-zur-Erde_41523
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bergen, Fritz
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '41218'
+    url: http://www.gutenberg.org/2009/agents/41218
+covers:
+- cover_type: archival
+  image_path: 41523-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Daiber, Albert
+    gutenberg_agent_id: '41217'
+    url: http://www.gutenberg.org/2009/agents/41217
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41523'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+title: Vom Mars zur Erde
+url: http://www.gutenberg.org/ebooks/41523
